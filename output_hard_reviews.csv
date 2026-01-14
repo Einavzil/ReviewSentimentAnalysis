@@ -1,0 +1,7 @@
+text,sentiment,confidence
+"Amazing how a store full of electronics can still fail to sell a working charger. After three returns and a lot of smiling apologies, I now own plenty of receipts and zero functioning devices.",negative,0.8795577883720398
+The staff were consistently calm and professional while explaining why the warranty didn’t apply in my case. I left without a refund but with a much deeper understanding of the store’s return policy-something I hadn’t planned to study.,positive,0.7385212779045105
+"Nothing flashy, just a well-run electronics store. I asked for a specific set of noise-canceling headphones, got a clear explanation, paid exactly what I expected, and they’ve worked perfectly since.",positive,0.9885910153388977
+"Shockingly smooth experience for buying tech. The laptop was in stock, the price matched the tag, and no one tried to sell me an extended warranty I didn’t ask for. I’d call that a win.",positive,0.9867761731147766
+"It’s an electronics store that does what it claims to do. The product works, the transaction was completed, and I don’t have much else to say-which probably says everything.",neutral,0.8546839952468872
+"The store has a wide selection and reasonable prices, though the staff interaction felt rushed. I got what I needed, but the experience didn’t stand out enough to feel particularly good or bad.",neutral,0.9567973613739014
