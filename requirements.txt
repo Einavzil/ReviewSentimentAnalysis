@@ -5,3 +5,4 @@ pandas
 numpy
 evaluate
 accelerate
+torch
